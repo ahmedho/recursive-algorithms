@@ -1,5 +1,3 @@
-// Ahmed Othman, 400261, Dimitri Jakob, 402468
-
 public class Gosper {
 
   static void gosperLinks(Canvas c, int ordnung, int length) {
