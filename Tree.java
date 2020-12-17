@@ -1,4 +1,3 @@
-// Ahmed Othman, 400261, Dimitri Jakob, 402468
 /**
 * Import von Paketen, in denen benoetigte Library-Hilfsfunktionen zu finden sind
 */
