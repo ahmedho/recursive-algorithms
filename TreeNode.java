@@ -1,5 +1,3 @@
-// Ahmed Othman, 400261, Dimitri Jakob, 402468
-
 /**
  * Ein Knoten in einem binaeren Baum.
  *
