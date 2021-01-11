@@ -3,7 +3,7 @@ public class Gosper {
   static void gosperLinks(Canvas c, int ordnung, int length) {
     // TODO
 	 if (ordnung == 0) {
-      c.drawForward(15);
+      c.drawForward(length);
     } else {
       final int tmp = ordnung - 1;
 
@@ -26,7 +26,7 @@ public class Gosper {
   static void gosperRechts(Canvas c, int ordnung, int length) {
     // TODO
 	if (ordnung == 0) {
-      c.drawForward(15);
+      c.drawForward(length);
     } else {
       final int tmp = ordnung - 1;
 
